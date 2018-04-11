@@ -1,0 +1,4 @@
+module CSQLite {
+    umbrella "/home/yinchyu/workspace/myVapor/Hello/.build/checkouts/sqlite.git--4108756359550468539/Sources/CSQLite/include"
+    export *
+}
